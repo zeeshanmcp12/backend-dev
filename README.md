@@ -31,8 +31,10 @@ my_none = "None" # this is a string
 
 ### Notes
 
-- type function
+- **type** function
   - type(any_variable)
+- **is** keyword
+  - `is` is a keyword in Python that test if two variables refer to the same object. The test returns **True** if the two objects are the same object. The test returns **False** if they are not the same object, even if the two objects are 100% equal.
 
 ## Object Oriented Programming
 

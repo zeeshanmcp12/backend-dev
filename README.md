@@ -2,6 +2,20 @@
 
 ## Python
 
+### Language Jargons
+
+- Python is dynamically-typed language.
+  - A variable can store any type and that type can change later on.
+  - It's not a good idea to change the type of variable after we declared it.
+  - In Python we can initialized a variable with one type and change it later on to other type
+    - x = 5
+    - x = "five"
+- Some programming languages, for example Go, Rust etc are Static-Type
+  - But, there is a concept of "Type inference". For example
+    - num := 5 -> In this case, compiler knows the type of variable
+    - num = "five" -> is not allowed in golang
+
+
 ### Variable "rule of thumb"
 
 - No Case

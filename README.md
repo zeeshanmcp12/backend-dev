@@ -65,6 +65,9 @@ my_none = "None" # this is a string
 #### Floor Division
 
 - **Floor** division is like a normal division except the result is `floored` which means the reminder is removed. It will produce an output in an `Integer` format instead of `Float`. For example, `print(11 // 2) -> Output: 5`
+  - In roman
+    - Ye normal division ki tarah hi hota hai. Farq sirf itna hai k result qareeb tareen mukammal (whole) number tak puhunch jata hai. Matlab k agar floor division karen 10 ko 3 se divide kar k tu answer ayega `3` kun k `3` (number) 10 main 3 bar (three times) ata hai. Bacha 1, wo remove ho jayega.
+- The symbol used to represent the Floor Division is `//` (double forward slash).
 
 ### Notes
 

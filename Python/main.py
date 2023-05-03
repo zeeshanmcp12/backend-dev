@@ -26,5 +26,13 @@ num = "five"
 print("Value of num variable: ", num)
 print(type(num))
 
-print(3/2)
+# print(3/2)
+# Floor Division
 print(11 // 2)
+print(11 / 2)
+print(10 // 3)
+print(10 / 3)
+print(15 // 2)
+print(15 / 2)
+print(25 // 4)
+print(25 / 4)

@@ -62,12 +62,21 @@ my_none = "None" # this is a string
 - A **Float** is a number type that allows for decimal values. For example, 3.4
 - `Division` in Python will end up with float(ing) number. For example, 3 / 2 -> output: 1.5
 
-#### Floor Division
+### Floor Division
 
 - **Floor** division is like a normal division except the result is `floored` which means the reminder is removed. It will produce an output in an `Integer` format instead of `Float`. For example, `print(11 // 2) -> Output: 5`
   - In roman
     - Ye normal division ki tarah hi hota hai. Farq sirf itna hai k result qareeb tareen mukammal (whole) number tak puhunch jata hai. Matlab k agar floor division karen 10 ko 3 se divide kar k tu answer ayega `3` kun k `3` (number) 10 main 3 bar (three times) ata hai. Bacha 1, wo remove ho jayega.
 - The symbol used to represent the Floor Division is `//` (double forward slash).
+
+### Exponents in Python
+
+- Python has built-in support for exponents - something most languages require a math library for.
+- three squared reads at three raised to the second power. For example:
+  - 3 ** 3 is the same as 3 * 3
+  - 2 ** 3 is the same as 2 * 2 * 2
+  
+### Changing in Place
 
 ### Notes
 

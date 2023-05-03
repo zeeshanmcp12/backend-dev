@@ -36,3 +36,13 @@ print(15 // 2)
 print(15 / 2)
 print(25 // 4)
 print(25 / 4)
+
+
+print(2 ** 5)
+# Output: 32
+
+print(2 ** 3)
+# Output: 8
+
+print(3 ** 2)
+# Output: 9

@@ -4,6 +4,8 @@
 
 ### Language Jargons
 
+## Chapter 2 - Variables
+
 - Python is dynamically-typed language.
   - A variable can store any type and that type can change later on.
   - It's not a good idea to change the type of variable after we declared it.
@@ -25,7 +27,7 @@
   - new_variable = 10
   - It became a rule of thumb in for language (Python)
 
-#### NoneType Variable
+### NoneType Variable
 
 - We can declare an empty variable by setting it to `None`
 - We do set variable with `None` to use it later
@@ -51,6 +53,18 @@ my_none = "None" # this is a string
 
 - We can declare as many variable as possible in single line. There is no any limit.
   - sword_name, sword_damage, sword_length = "Excalibur", 10, 200
+
+## Chapter 3 - Computing
+
+### Numbers in Python
+
+- An **Integer** is a number without decimal part (2.3) so a whole number, positive or negative. For example 3, -3 etc
+- A **Float** is a number type that allows for decimal values. For example, 3.4
+- `Division` in Python will end up with float(ing) number. For example, 3 / 2 -> output: 1.5
+
+#### Floor Division
+
+- **Floor** division is like a normal division except the result is `floored` which means the reminder is removed. It will produce an output in an `Integer` format instead of `Float`. For example, `print(11 // 2) -> Output: 5`
 
 ### Notes
 

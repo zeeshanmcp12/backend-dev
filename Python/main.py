@@ -25,3 +25,6 @@ print("----- Type changed to string -----")
 num = "five"
 print("Value of num variable: ", num)
 print(type(num))
+
+print(3/2)
+print(11 // 2)

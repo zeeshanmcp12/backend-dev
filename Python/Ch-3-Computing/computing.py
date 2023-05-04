@@ -13,3 +13,12 @@ print("Player score: " + str(player_score)) # No error because of type casting t
 # Plus Equal - Reassigning the value
 player_score += 1
 print("Updated player score: " + str(player_score)) # No error because of type casting to string
+
+# Scientific Notation
+scientific_number = 14.1e2
+print(str(scientific_number) + " represents as 14.1e2 using 'Scientific Notation'")
+
+max_number_of_players = 1.024e18
+print(max_number_of_players)
+# Output in decimal notation
+# 1,024,000,000,000,000,000

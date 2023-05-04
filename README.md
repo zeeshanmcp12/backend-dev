@@ -90,6 +90,29 @@ Output: 1235
 -->
 ```
 
+### Scientific Notation
+
+- Scientific notation is a way to represent a large or small number in short term. For example
+- We can add the letter `e` or `E` followed by a positive or negative integer to specify that we're using scientific notation.
+- In simple words, it's a way of expressing numbers that are too large or too small to conveniently write normally.
+  - If we have 4500, we can write this number using scientific notation like this 4.5e3
+    - Breakdown of 4.5e3
+      - 4.5 -> decimal number
+      - e -> stands for `exponent` which means `e` represents the base 10 exponential notation.
+      - 3 -> is an exponent which tells us, how many time we need to multiply `4.5` by `10`
+      - It can also be written as 4.5*10^3
+    - This is shorthand war of writing 4500 using scientific notation.
+  - If we have 0.000004, we can write this number like this 4e-5. In this case, the exponent (-5) is negative which means divide the decimal (4) number by 10 5 times.
+    - Breakdown of 4e-5
+      - 4 -> decimal number
+      - e -> stands for exponent -> represents the exponent (or power of 10)
+      - -5 -> exponent -> negative exponent means, divide the decimal by 10 5 times
+      - It can also be written as 4/10^5
+
+### Underscored for readability
+
+- 
+
 ### Notes
 
 - **type** function

@@ -78,6 +78,18 @@ my_none = "None" # this is a string
   
 ### Changing in Place
 
+### Plus Equal
+
+- In Javascript or Golang, we have `++` operator. Similarly, In Python, we can increment a number variable using `+=` operator. For example:
+
+```
+player_score = 1234
+player_score += 1
+<!--
+Output: 1235
+-->
+```
+
 ### Notes
 
 - **type** function

@@ -101,8 +101,8 @@ Output: 1235
       - e -> stands for `exponent` which means `e` represents the base 10 exponential notation.
       - 3 -> is an exponent which tells us, how many time we need to multiply `4.5` by `10`
       - It can also be written as 4.5*10^3
-    - This is shorthand war of writing 4500 using scientific notation.
-  - If we have 0.000004, we can write this number like this 4e-5. In this case, the exponent (-5) is negative which means divide the decimal (4) number by 10 5 times.
+    - This is shorthand way of writing 4500 using scientific notation.
+  - If we have 0.00004, we can write this number like this 4e-5. In this case, the exponent (-5) is negative which means divide the decimal (4) number by 10 5 times.
     - Breakdown of 4e-5
       - 4 -> decimal number
       - e -> stands for exponent -> represents the exponent (or power of 10)

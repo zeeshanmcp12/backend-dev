@@ -108,10 +108,39 @@ Output: 1235
       - e -> stands for exponent -> represents the exponent (or power of 10)
       - -5 -> exponent -> negative exponent means, divide the decimal by 10 5 times
       - It can also be written as 4/10^5
+- In a nutshell, the number following the e specifies how many places to move the decimal to the right for a positive number, or to the left for a negative number.
+  - Given the scientific notation 16e3, let's apply the rule from the sentence you mentioned above.
+    - Here, the number following the "e" is 3, which is a positive number. According to the rule, we need to move the decimal point 3 places to the right.
+    - Initially, the number is written as 16.0 (with the decimal point after the 6). Now, let's move the decimal point three places to the right:
+      - 160.0 (1 place to the right)
+      - 1,600.0 (2 places to the right)
+      - 16,000.0 (3 places to the right)
+
+So, the scientific notation 16e3 is equivalent to the standard notation 16,000.
+
+<!-- Normal notation to Scientific notation -->
+To convert the number `1,024,000,000,000,000,000` into scientific notation, follow these steps:
+
+1. Identify the first non-zero digit in the number (in this case, it's 1).
+2. Place a decimal point after the first non-zero digit (1.).
+3. Count the number of places the decimal point has moved from its original position at the end of the number to its new position after the first non-zero digit. In this case, there are 18 places.
+
+So, the scientific notation for `1,024,000,000,000,000,000` is 1.024e18.
 
 ### Underscored for readability
 
-- 
+- We can write `_` (underscore) to make this readable as comma. For example:
+  - 16_000_000
+
+### Logical Operators
+
+- These are two operators
+  - AND
+  - OR
+- AND
+  - returns `True` when both sides are true. For example `print(True and True)`. It will return `False` if one side is false.
+- OR
+  - returns `True` when atleast one side is true. For example `print(True or False)`
 
 ### Notes
 
